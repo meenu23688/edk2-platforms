@@ -236,7 +236,6 @@ M: Leif Lindholm <leif@nuviainc.com>
 
 Miscellaneous drivers
 F: Silicon/Atmel/
-F: Silicon/NXP/
 F: Silicon/Openmoko/
 F: Silicon/Synopsys/DesignWare/
 R: Ard Biesheuvel <ard.biesheuvel@linaro.org>
@@ -254,3 +253,9 @@ F: Platform/Socionext/
 F: Silicon/Socionext/
 M: Ard Biesheuvel <ard.biesheuvel@linaro.org>
 M: Leif Lindholm <leif@nuviainc.com>
+
+NXP platforms and silicon
+F: Platform/NXP/
+F: Silicon/NXP/
+M: Leif Lindholm <leif@nuviainc.com>
+R: Meenakshi Aggarwal <meenakshi.aggarwal@nxp.com>
